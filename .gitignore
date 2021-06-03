@@ -1,0 +1,8 @@
+/target
+rust-practice.iml
+
+# macOS junk
+.DS_Store
+
+# JetBrains IDE
+.idea/*

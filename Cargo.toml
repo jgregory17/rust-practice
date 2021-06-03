@@ -1,0 +1,13 @@
+[package]
+name = "rust-practice"
+version = "0.1.0"
+authors = ["Jake Gregory <jgregory@bandwidth.com>"]
+edition = "2018"
+description = "Practice / payground project for learning rust"
+readme = "README.md"
+repository = "https://github.com/jgregory17/rust-practice"
+publish = false
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
